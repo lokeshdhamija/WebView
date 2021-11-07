@@ -1,6 +1,9 @@
 # WebView
 This app is for Android, which will load our github page.
-It is sample project for OSSE Assignment 4.
+
+It is sample project for OSSE Assignment 4 to demonstrate use of Github to collaborate & contribute to projects.
+
+[Click here to open Github Page](https://osse8.github.io/)
 
 ## Group Members
 | Enrollnment No. | Name             | Mail address                       |
