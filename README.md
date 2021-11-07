@@ -6,6 +6,7 @@ It is sample project for OSSE Assignment 4 to demonstrate use of Github to colla
 [Click here to open Github Page](https://osse8.github.io/)
 
 ## Group Members
+Below are the details of all the members:
 | Enrollnment No. | Name             | Mail address                       | Github profile                           |
 | --------------- | ---------------- | ---------------------------------- | ---------------------------------------- |
 | 2020mt93613	| Noel Macwan	         | 2020mt93613@wilp.bits-pilani.ac.in | [Link](https://github.com/NoelMacwan)    | 
